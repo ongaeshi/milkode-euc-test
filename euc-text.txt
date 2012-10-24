@@ -1,0 +1,8 @@
+あいうえおかきくけこさしすせそたちつてとなにぬねの
+
+,'PATH'=>_PATH. 'User/Common.css'
+,'ENTRY'=>'PPPADD'
+
+,'TITLE'=>'fdakjdsakjasdfskajfa;sfj;'
+
+
